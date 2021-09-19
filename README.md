@@ -9,4 +9,4 @@ C project combines 5 the most popular algorithms of pseudorandom number generati
 5. Xorshift
 
 random_generators.h that includes function generate() to generate N random numbers by using the selected algorithm. </br>
-main.c includes main() function that provides a console interface to use generate()
+main.c includes main() function that provides a russian console interface to use generate()
