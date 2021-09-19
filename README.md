@@ -7,3 +7,6 @@ C project combines 5 the most popular algorithms of pseudorandom number generati
 3. Middle square
 4. Mersenne twister
 5. Xorshift
+
+random_generators.h that includes function generate() to generate N random numbers by using the selected algorithm.
+main.c includes main() function that provides a console interface to use generate()
